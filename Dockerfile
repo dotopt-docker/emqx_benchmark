@@ -1,4 +1,4 @@
-FROM erlang:21.2
+FROM erlang:21.1
 LABEL maintainer="wuxingzhong <wuxingzhong@sunniwell.net>"
 
 RUN set -x  \
